@@ -1,6 +1,7 @@
 import java.util.Scanner;
 /**
  * 最长公共子序列：动态规划将时间复杂度降低，动态数组降低空间复杂度
+ * leetcode-1143
  * */
 public class LCS {
     public static void main(String[] args){
